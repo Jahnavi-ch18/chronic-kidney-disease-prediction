@@ -1,5 +1,4 @@
 # chronic-kidney-disease-prediction
-# test
 # Chronic Kidney Disease Prediction using KNN and Decision Tree
 
 This project aims to predict chronic kidney disease (CKD) using two machine learning algorithms: K-Nearest Neighbors (KNN) and Decision Tree. The project uses a dataset from the UCI Machine Learning Repository, which contains various clinical features related to kidney function.  The notebook performs data preprocessing, exploratory data analysis (EDA), model training, and evaluation to compare the performance of both algorithms.
@@ -73,4 +72,5 @@ matplotlib
 * **Deployment:** Develop a web application or other interface to deploy the trained model for practical use.
 * **Explainability:** Use techniques like SHAP values or LIME to explain the model's predictions and gain insights into feature importance.
 
+This enhanced README provides a comprehensive overview of the project, including background information, dataset details, methodology, results, instructions for running the code, and suggestions for further improvements.
 
